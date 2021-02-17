@@ -1,0 +1,2 @@
+first "ps waux"
+and then -KILL it
